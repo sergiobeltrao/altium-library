@@ -798,6 +798,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OSRBEVTP
 
 [Document45]
+DocumentPath=Resistors-2512-Shunt.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDMQQGWQ
+
+[Document46]
 DocumentPath=Resistors-PTH-1W.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJKPTBUY
 
-[Document46]
+[Document47]
 DocumentPath=Resistors-PTH-250mW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAXIITQL
 
-[Document47]
+[Document48]
 DocumentPath=Resistors-PTH-2W.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGDAOCXO
 
-[Document48]
+[Document49]
 DocumentPath=Resistors-PTH-3W.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFYTNMYU
 
-[Document49]
+[Document50]
 DocumentPath=Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESUQEHDS
 
-[Document50]
+[Document51]
 DocumentPath=SMD-Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXWNKIOQ
 
-[Document51]
+[Document52]
 DocumentPath=Switches.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOHYUGWX
 
-[Document52]
+[Document53]
 DocumentPath=Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAYMNMTS
 
-[Document53]
+[Document54]
 DocumentPath=Thyristors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQLCYLRF
 
-[Document54]
+[Document55]
 DocumentPath=Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHMSFTCY
 
-[Document55]
+[Document56]
 DocumentPath=Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEDMPQYI
 
-[Document56]
+[Document57]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFLNCPSK
 
-[Document57]
+[Document58]
 DocumentPath=TVS-Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCRXAFRD
 
-[Document58]
+[Document59]
 DocumentPath=Varistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTVPTUZX
 
-[Document59]
+[Document60]
 DocumentPath=Voltage-Reference.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDBAFBYY
 
-[Document60]
+[Document61]
 DocumentPath=Voltage-Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNYVCLBJ
 
-[Document61]
+[Document62]
 DocumentPath=Varistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1766,6 +1783,16 @@ Type158=1
 Type159=1
 Type160=1
 Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1856,6 +1883,13 @@ Type85=1
 Type86=1
 Type87=1
 Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
